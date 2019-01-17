@@ -9,7 +9,12 @@ public class caladd{
 		switch(choice){
 			case '1': System.out.print("addition");
 
+
 			case '3': System.out.print("multiply");
+
+			
+			case '2': System.out.print("subtraction");
+
 		}
 
 
